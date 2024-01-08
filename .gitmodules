@@ -1,6 +1,3 @@
 [submodule "hassio-voltronic-axpert"]
 	path = hassio-voltronic-axpert
-	url = https://github.com/bennieswart/hassio-voltronic-axpert
-[submodule "hassio-pylontech"]
-	path = hassio-pylontech
-	url = https://github.com/bennieswart/hassio-pylontech
+	url = https://github.com/kgksoft/hassio-voltronic-axpert
