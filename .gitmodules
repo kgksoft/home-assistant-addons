@@ -1,6 +1,6 @@
 [submodule "hassio-voltronic-axpert"]
 	path = hassio-voltronic-axpert
 	url = https://github.com/kgksoft/hassio-voltronic-axpert
-[submodule "esphome "]
-	path = esphome 
+[submodule "esphome"]
+	path = esphome
 	url = https://github.com/kgksoft/esphome
